@@ -1,5 +1,8 @@
 ![pycon2020](./Img/logopycon.png)
+
 # Comprension de la musica con Python, una mirada desde la Fisica y la Matematica (Pycon2020 Colombia)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nicoguaro/Pycon2020Colombia/master?filepath=.%2FPycon2020_Musica_Python.ipynb)
 
 Jupyter Notebook con Slides  de la charla [Comprension de la musica con Python, una mirada desde la Fisica y la Matematica](https://www.pycon.co/ponencias/18/) en [Pycon2020](https://2020.pycon.co/) Colombia.
 
