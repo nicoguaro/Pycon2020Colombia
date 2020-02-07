@@ -1,0 +1,12 @@
+name: musica_python
+channels:
+  - damianavila82
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - pandas
+  - bokeh
+  - plotly
+  - rise
